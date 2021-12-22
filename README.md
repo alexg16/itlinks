@@ -1,3 +1,3 @@
 ## Welcome to itlinks
 
-### Collection of web links to several IT learning topics
+### Collection of web links to several IT topics
