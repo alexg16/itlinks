@@ -5,9 +5,7 @@
 ### [CLOUD](cloud-index)
 ### [CODING](coding-index)
 ### [INFRASTRUCTURE](infrastructure-index)
-    networking-index">NETWORKING
-    security-index">SECURITY
-    unix-index">UNIX
-    windows-index">WINDOWS
-    archive">Archive
-           <!--TODO-->
+### [NETWORKING](networking-index)
+### [SECURITY](security-index)
+### [UNIX](unix-index)
+### [WINDOWS](windows-index)
